@@ -1,5 +1,5 @@
-How to Install ?
-git clone https://github.com/indrha7x/sbucks-checker.git
-cd sbucks-checker
-pip install -r requirements.txt
-python sbux.py
+# How to Install ?
+1. git clone https://github.com/m34l/sbux.git
+2. cd sbucks-checker
+3. pip install -r requirements.txt
+4. python sbux.py
